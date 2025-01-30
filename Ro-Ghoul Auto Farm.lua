@@ -33,9 +33,9 @@ local myData = loadstring(game:HttpGet("https://raw.githubusercontent.com/z4gs/s
         ["Koutarou Amon"] = false,
         ["Nishiki Nishio"] = false
     },
-    DistanceFromNpc = 5,
-    DistanceFromBoss = 8,
-    TeleportSpeed = 150,
+    DistanceFromNpc = 8,
+    DistanceFromBoss = 15,
+    TeleportSpeed = 250,
     ReputationFarm = false,
     ReputationCashout = false,
     AutoKickWhitelist = ""
